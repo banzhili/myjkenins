@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class domeController {
     @GetMapping("/dome")
     public String dome(){
-        log.info("进入了");
+        log.info("进入了a");
         return "哈哈";
     }
 }
