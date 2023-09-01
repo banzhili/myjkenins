@@ -20,6 +20,6 @@ public class domeController {
     @GetMapping("/dome")
     public String dome(){
         log.info("进入了aa");
-        return "哈哈";
+        return "哈哈1";
     }
 }
