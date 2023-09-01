@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 实验类
  *
- * @author banzhili
+ * @author banzhili1
  * @date 2023/5/23 23:39
  */
 @RestController
