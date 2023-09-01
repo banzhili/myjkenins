@@ -1,10 +1,10 @@
-package com.example.mydocker;
+package com.example.myjkenins;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class MyjkeninsApplicationTests {
 
     @Test
     void contextLoads() {
